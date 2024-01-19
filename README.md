@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://rishavchanda.io)
+[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Aryan Rusia</h1>
 <h3 align="center">Co-founder & CTO at SnowBotics | Computer Engineering @ualberta | Machine Learning Enthusiast </h3>
